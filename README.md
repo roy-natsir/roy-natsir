@@ -63,13 +63,13 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 
 ## 📊 My Learning Journey Statistics
 
-<div align="center">
-  
-<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=royweb3dev&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Roy Natsir's GitHub Stats" /> 
-<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=royweb3dev&layout=compact&hide_border=true&title_color=7C3AED&text_color=7C3AED&bg_color=0d1117" />
-<br><br>
 
-<!-- THIS IS THE FIX: Added '!' at the beginning of the line -->
+| GitHub Stats | Most Used Languages |
+| :---: | :---: |
+| <img src="https://github-readme-stats.vercel.app/api?username=royweb3dev&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Roy Natsir's GitHub Stats" /> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royweb3dev&layout=compact&hide_border=true&title_color=7C3AED&text_color=7C3AED&bg_color=0d1117" /> |
+| <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=royweb3dev&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" /></td> |
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royweb3dev&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)
 
 </div>
