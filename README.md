@@ -61,7 +61,7 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 
 ---
 
-## 📊 My Learning Statistics
+## 📊 Statistics
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
