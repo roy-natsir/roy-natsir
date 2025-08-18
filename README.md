@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Aspiring+Full+Stack+Web3+Developer;On+a+322-Day+Learning+Journey;Documenting+My+Progress+On-Chain;Building+the+Orchis+Portfolio)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Web3+Developer;On+a+322-Day+Learning+Journey;Documenting+My+Progress+On-Chain;Building+the+Orchis+Portfolio)
 
 </div>
 
@@ -65,7 +65,7 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=royweb3dev&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Roy Natsir's GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=royweb3dev&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Roy Natsir's Stats" />
     </td>
     <td width="50%" align="center" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royweb3dev&layout=compact&card_width=445&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
