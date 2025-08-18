@@ -8,11 +8,11 @@
 
 ---
 
-## 🚀 My Mission: From Zero to Web3 Developer in 322 Days
+## 🚀 My Mission: From Zero to Web3 Developer in 46 Weeks
 
 <img align="right" alt="Coding Journey" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I am in intensive **322-day roadmap** to become a professional Full Stack Web3 Developer. This GitHub profile is the living diary of that journey.
+I am in intensive **11 Phase Roadmap** to become a professional Full Stack Web3 Developer. This GitHub profile is the living diary of that journey.
 
 - 🔭 **My primary project is the [Orchis Portfolio](https://github.com/royweb3dev/orchis-portfolio):** An on-chain professional CV I am building in parallel with my learning.
 - 🌱 **My current focus:** Mastering the absolute fundamentals of **HTML, CSS, and Git (Phase 1)**.
