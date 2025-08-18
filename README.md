@@ -61,22 +61,23 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 
 ---
 
-## 📊 My Learning Statistics
+## 📊 My Learning Journey Statistics
 <table width="100%">
   <tr>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api?username=royweb3dev&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Roy Natsir's Stats" />
+      <img src="https://github-readme-stats.vercel.app/api?username=royweb3dev&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=333333&bg_color=ffffff" alt="Roy Natsir's GitHub Stats" />
     </td>
     <td width="50%" align="center" valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royweb3dev&layout=compact&card_width=445&hide_border=true&title_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Most Used Languages" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royweb3dev&layout=compact&card_width=445&hide_border=true&title_color=7C3AED&text_color=333333&bg_color=ffffff" alt="Most Used Languages" />
     </td>
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=royweb3dev&theme=dark&hide_border=true&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=royweb3dev&theme=default&hide_border=true&background=FFFFFF&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" />
     </td>
   </tr>
 </table>
+
 
 ---
 
