@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Web3+Developer;On+a+322-Day+Learning+Journey;Documenting+My+Progress+On-Chain;Building+the+Orchis+Portfolio)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Web3+Developer+In+Training;Documenting+My+Progress+On-Chain;Building+the+Orchis+Project+Portfolio)
 
 </div>
 
@@ -19,7 +19,6 @@ I am in intensive **322-day roadmap** to become a professional Full Stack Web3 D
 - 🎯 **My Goal:** To build secure, efficient, and user-friendly DApps by applying every concept I learn to a real-world project.
 - 🤝 **Collaboration:** I am actively seeking mentorship and am open to collaborating on foundational projects to accelerate my learning.
 - ⚡ **Fun fact:** I believe in "Proof of Work," not just for blockchains, but for building a career.
-- 👯 **Always open to collaborating on web3, dApps, or full-stack projects**
 
 ---
 
