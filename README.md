@@ -70,10 +70,6 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 | <td colspan="2"><img src="https://github-readme-streak-stats.herokuapp.com/?user=royweb3dev&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED" alt="GitHub Streak" /></td> |
 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=royweb3dev&theme=dark&hide_border=true&stroke=0000&background=0D1117&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED)
-
-</div>
-
 ---
 
 ## 📌 Pinned Project: My On-Chain Learning Ledger
