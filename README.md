@@ -64,10 +64,12 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 ## 📊 My Learning Journey Statistics
 <table width="100%">
   <tr>
-    <td width="50%" valign="top">
-      <img src="https://github-readme-stats.vercel.app/api?username=royweb3dev&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d1d9&bg_color=0d1117" alt="Roy Natsir's GitHub Stats" />
+    <!-- FIXED: Changed valign from "top" to "middle" -->
+    <td width="50%" valign="middle">
+      <img src="https://github-readme-stats.vercel.app/api?username=royweb3dev&show_icons=true&count_private=true&hide_border=true&title_color=7C3AED&icon_color=7C3AED&text_color=c9d_color=0d1117" alt="Roy Natsir's GitHub Stats" />
     </td>
-    <td width="50%" valign="top">
+    <!-- FIXED: Changed valign from "top" to "middle" -->
+    <td width="50%" valign="middle">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=royweb3dev&layout=compact&hide_border=true&title_color=7C3AED&text_color=7C3AED&bg_color=0d1117" alt="Most Used Languages" />
     </td>
   </tr>
