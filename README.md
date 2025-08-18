@@ -95,13 +95,17 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 
 Let's connect! I'm always open to discussing my learning journey, new technologies, or potential collaborations.
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/roynatsir)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/roynatsir)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/roynatsir)
-
-</div>
+<p align="center">
+  <a href="https://x.com/roynatsir" target="_blank" rel="noopener noreferrer" title="">
+    <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="">
+  </a>
+  <a href="https://linkedin.com/in/roy-natsir" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
+  </a>
+  <a href="https://t.me/roynatsir" target="_blank" rel="noopener noreferrer" title="Telegram">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram">
+  </a>
+</p>
 
 ---
 
