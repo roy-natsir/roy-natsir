@@ -14,8 +14,7 @@
 
 I am in intensive **11 Phase Roadmap** to become a professional Full Stack Web3 Developer. This GitHub profile is the living diary of that journey.
 
-- 🔭 **My primary project is the [Orchis Portfolio](https://github.com/royweb3dev/orchis-portfolio):** An on-chain professional CV I am building in parallel with my learning.
-- 🌱 **My current focus:** Mastering the absolute fundamentals of **HTML, CSS, and Git (Phase 1)**.
+- 🔭 **My primary project is the [Orchis Portfolio](https://github.com/roy-natsir/orchis-project):** An on-chain professional CV I am building in parallel with my learning.
 - 🎯 **My Goal:** To build secure, efficient, and user-friendly DApps by applying every concept I learn to a real-world project.
 - 🤝 **Collaboration:** I am actively seeking mentorship and am open to collaborating on foundational projects to accelerate my learning.
 - ⚡ **Fun fact:** I believe in "Proof of Work," not just for blockchains, but for building a career.
@@ -86,7 +85,7 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 
 <div align="center">
 
-[![Orchis Portfolio README](https://github-readme-stats.vercel.app/api/pin/?username=royweb3dev&repo=orchis-portfolio&theme=dark&hide_border=true&title_color=7C3AED&icon_color=7C3AED)](https://github.com/royweb3dev/orchis-portfolio)
+[![Orchis Portfolio README](https://github-readme-stats.vercel.app/api/pin/?username=roy-natsir&repo=orchis-portfolio&theme=dark&hide_border=true&title_color=7C3AED&icon_color=7C3AED)](https://github.com/roy-natsir/orchis-project)
 
 </div>
 
