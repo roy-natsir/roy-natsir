@@ -96,13 +96,13 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
 Let's connect! I'm always open to discussing my learning journey, new technologies, or potential collaborations.
 
 <p align="center">
-  <a href="https://x.com/roynatsir" target="_blank" rel="noopener noreferrer" title="">
+  <a href="https://x.com/Roy_Natsir" target="_blank" rel="noopener noreferrer" title="">
     <img src="https://img.shields.io/badge/-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=000000" alt="">
   </a>
-  <a href="https://linkedin.com/in/roy-natsir" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+  <a href="https://www.linkedin.com/in/roy-natsir" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn">
   </a>
-  <a href="https://t.me/roynatsir" target="_blank" rel="noopener noreferrer" title="Telegram">
+  <a href="https://t.me/orchisproject" target="_blank" rel="noopener noreferrer" title="Telegram">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white&labelColor=26A5E4" alt="Telegram">
   </a>
 </p>
