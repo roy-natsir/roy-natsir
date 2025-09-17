@@ -72,7 +72,7 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=roy-natsir&theme=light" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=roy-natsir&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
 </tr>
