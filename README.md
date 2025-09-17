@@ -72,7 +72,7 @@ This is the tech stack I am committed to mastering over the next 322 days. Techn
   </tr>
   <tr>
     <td colspan="2" align="center">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=roy-natsir&theme=radical&hide_border=true&background=0d1117&stroke=7C3AED&ring=7C3AED&fire=7C3AED&currStreakLabel=7C3AED&sideLabels=ffffff&currStreakNum=ffffff&sideNums=ffffff&dates=ffffff" alt="GitHub Streak" />
+      <img src="https://streak-stats.demolab.com?user=roy-natsir&theme=dark" alt="GitHub Streak" />
     </td>
   </tr>
 </tr>
