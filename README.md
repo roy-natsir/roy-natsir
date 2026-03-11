@@ -7,12 +7,10 @@
 </div>
 
 ---
+<div align="center">
+<img align="centre" alt="Coding Journey" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+</div>
 
-## 🚀 About Me
-
-<img align="right" alt="Coding Journey" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
-
-Web3 || Smart Contract - AI
 
 ---
 
