@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Full+Stack+Web3+Developer+In+Training;Documenting+My+Progress+On-Chain;Building+the+Orchis+Project+Portfolio)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=7C3AED&center=true&vCenter=true&width=600&lines=Web3-Smart-Contract)
 
 </div>
 
