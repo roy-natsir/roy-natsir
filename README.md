@@ -12,52 +12,7 @@
 
 <img align="right" alt="Coding Journey" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-I am training to become a Full Stack Web3 Developer by building my professional portfolio in public. My main focus is the **[Orchis Project](https://github.com/roy-natsir/orchis-project)**, an on-chain CV that serves as a real-time showcase of my growing skills.
-
-My approach is simple: turn every concept I learn into a tangible, on-chain result.
-
-- 🔭 **Current Project:** [Orchis Project](https://github.com/roy-natsir/orchis-project) - A professional DApp portfolio.
-- 📚 **My Progress:** I document all my daily exercises and development learning progress in the **[Web3-Learning](https://github.com/roy-natsir/Web3-Learning)** repository.
-- 🤝 **Collaboration:** I am actively seeking mentorship and am open to connecting with fellow builders.
-
----
-
-## 🛠️ Tech Stack Learning
-
-This is the technology stack I am focused on for my development path.
-
-### **Phase 1: Web Foundations (Current Focus)**
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-
-### **Upcoming Phases: What I'll Be Mastering Next**
-
-#### Frontend Development
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
-#### Backend & Data Layer
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![The Graph](https://img.shields.io/badge/-The_Graph-6f4c9d?style=for-the-badge&logo=the-graph&logoColor=white)
-![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?style=for-the-badge&logo=ipfs&logoColor=white)
-
-#### Smart Contract Engineering
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
-![Ethereum](https://img.shields.io/badge/-Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
-![Ethers.js](https://img.shields.io/badge/-Ethers.js-2535A0?style=for-the-badge&logo=ethereum&logoColor=white)
-![Foundry](https://img.shields.io/badge/-Foundry-343a40?style=for-the-badge&logo=hardhat&logoColor=white)
-
-#### Testing & DevOps
-![Jest](https://img.shields.io/badge/-Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+Web3 || Smart Contract - AI
 
 ---
 
