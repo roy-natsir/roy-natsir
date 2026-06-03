@@ -50,6 +50,6 @@ Let's connect! I'm always open to discussing my learning, new technologies, or p
 
 <br>
 
-![Profile Views](https://komarev.com/ghpvc/?username=royweb3dev&color=7C3AED&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=roy-natsir&color=7C3AED&style=flat-square)
 
 </div>
